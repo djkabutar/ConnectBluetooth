@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Connect Bluetooth</string>
+    <string name="tvMain">Select a Pairing Device</string>
+    <string name="btnPair">Pair</string>
+    <string name="tvProgress">Progress</string>
+    <string name="btnCombo1">Combo 1</string>
+    <string name="btnCombo2">Combo 2</string>
+    <string name="btnCombo3">Combo 3</string>
+    <string name="btnCombo4">Combo 4</string>
+    <string name="btnCombo5">Combo 5</string>
+    <string name="btnDisconnect">Disconnect Pairing</string>
+    <string name="btnSend">Send</string>
+    <string name="hintNumber">Enter Number</string>
+</resources>
